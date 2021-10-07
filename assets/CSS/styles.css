@@ -37,6 +37,7 @@ h3 {
 
 /*quiz section*/
 #quiz-section {
+  display: none;
 }
 #timer {
 }
@@ -51,23 +52,36 @@ h3 {
 #option-D {
 }
 #result {
+  display: none;
 }
 #game-over {
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
 }
 
 /*score section*/
 #score {
+  display: none;
+}
+/*add name textbox*/
+#add-name {
 }
 #submit-score-button {
 }
 
 /*leaderboard container*/
 #leaderboard-container {
+  display: none;
 }
 #leaderboard-categories {
 }
 
 /*leaderboard buttons*/
+#leaderboard-buttons {
+  display: none;
+}
 #clear-leaderboard {
 }
 #play-again {

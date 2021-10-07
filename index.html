@@ -38,7 +38,9 @@
         <div id="result">right or wrong</div>
       </div>
       <!--game over-->
-      <div id="game-over">game over</div>
+      <div id="game-over">
+        <h1>GAME OVER!</h1>
+      
 
       <!--score-->
       <div id="score">score</div>
@@ -46,11 +48,11 @@
       <input
         type="text"
         size="30"
-        placeholder="Add your name to the leaderboard!"
+        placeholder="Add your name to the leaderboard!" id="add-name"
       />
       <!--submit name to leaderboard-->
       <button id="submit-score-btn">Submit</button>
-
+    </div>
       <!--leaderboard container-->
       <div id="leaderboard-container">
         <!--leaderboard page-->
@@ -58,11 +60,13 @@
           <h2>Name</h2>
           <h2>Score</h2>
         </div>
+
+        <div id="leaderboard-buttons">
         <!--clear leaderboard button-->
         <button id="clear-leaderboard">Clear leaderboard</button>
         <!--play again button-->
         <button id="play-again">Play again</button>
-      </div>
+        </div>
     </div>
     <script src="assets/JavaScript/script.js"></script>
   </body>
