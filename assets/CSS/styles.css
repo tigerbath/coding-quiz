@@ -1,6 +1,7 @@
 /*main container holding interactive quiz*/
 .main-container {
 }
+
 /*homepage*/
 #home-page {
 }
@@ -11,4 +12,24 @@ h3 {
 #start-btn {
 }
 #show-leaderboard {
+}
+
+/*quiz section*/
+#quiz-section {
+}
+#timer {
+}
+#questions {
+}
+#option-A {
+}
+#option-B {
+}
+#option-C {
+}
+#option-D {
+}
+#result {
+}
+#game-over {
 }
