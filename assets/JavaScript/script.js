@@ -1,0 +1,2 @@
+//start quiz function//
+startQuiz;
