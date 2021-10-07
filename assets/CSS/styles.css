@@ -5,6 +5,18 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: #022f40;
+  color: #ffffff;
+}
+button {
+  padding: 15px;
+  background-color: #38aecc;
+  border-radius: 5px;
+  margin: 5px;
+}
+button a:hover {
+  color: #ffffff;
+  background-color: #022f40;
 }
 
 /*homepage*/
