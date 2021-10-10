@@ -1,5 +1,6 @@
 //questions array
-var allQuestions = {[
+const allQuestions = [
+    {
     question: 'Commonly used data types DO NOT include',
     choices: ['strings', 'booleans', 'alerts', 'numbers'],
     correctAnswer: 2
@@ -25,5 +26,9 @@ var allQuestions = {[
     correctAnswer: 3
 }
 ];
+//let count 
+let currentQuestionIndex = 0;
+let count = allQuestions.length * 5;
+
 
 
