@@ -26,3 +26,10 @@ A coding question based game designed to test those learning the fundamentals of
 - HTML
 - CSS
 - JavaScript
+
+## Screenshots
+
+![Home](/assets/Images/codingQuiz.png)
+![In Game](/assets/Images/Code-Quiz-Question.png)
+![Game Over](/assets/Images/Code-Quiz-Game-Over.png)
+![Leaderboard](/assets/Images/Code-Quiz-Highscores.png)
